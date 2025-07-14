@@ -1,0 +1,1 @@
+# SPA_RICK_MORTY
